@@ -1,0 +1,3 @@
+### Recommender Systems
+
+Recommender systems are important tools to help people find products and information. This repository includes python code for learning the algorithms include [content-based filtering](https://github.com/lanttern/Recommender-System/tree/master/Content-Based%20Recommenders), [user-user collaborative filtering](https://github.com/lanttern/Recommender-System/tree/master/User-User%20Collaborative%20Filtering), [item-item collaborative filtering](https://github.com/lanttern/Recommender-System/tree/master/Item-Item%20Collaborative%20Filtering) and [dimensionality reduction](https://github.com/lanttern/Recommender-System/tree/master/Dimensionality%20Reduction).
